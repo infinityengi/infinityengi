@@ -11,4 +11,4 @@ Python, C++, ROS2, MATLAB, OpenCV, Git, Docker, Simulink, ANSYS, SolidWorks
 
 ## 📫 Let's Connect
 - Email: op.rksahu@gmail.com
-- [LinkedIn](www.linkedin.com/in/om-prakash-sahu-74b95584)
+- [LinkedIn](https://linkedin.com/in/om-prakash-sahu-74b95584)
