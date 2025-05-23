@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Om Prakash Sahu 👋
+M.Sc. Automotive Engineering @ RWTH Aachen | Vehicle Systems | Control | Simulation | Robotics
 
-<!--
-**infinityengi/infinityengi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
+- [Vehicle Dynamics Simulator](https://github.com/yourusername/vehicle-dynamics-simulator)
+- [ROS2 Mini Projects](https://github.com/yourusername/ros2-mini-projects)
+- [Battery Modeling Toolkit](https://github.com/yourusername/ev-battery-modeling)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Python, C++, ROS2, MATLAB, OpenCV, Git, Docker, Simulink, ANSYS, SolidWorks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- Email: op.rksahu@gmail.com
+- [LinkedIn](https://linkedin.com/in/your-profile)
