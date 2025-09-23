@@ -4,7 +4,7 @@ Vehicle Systems | Control | Simulation | Robotics
 
 ---
 
-## 🚀 Projects
+  ## 🚀 Projects
 
 - [**Visual Lane Following Robot (ACDC)**](https://github.com/infinityengi/visual-lane-following-robot-acdc)  
   ROS-based system on NVIDIA Jetson Nano for detecting lanes and generating steering commands using Pure Pursuit, integrated with simulation and real-world tests.
@@ -18,7 +18,19 @@ Vehicle Systems | Control | Simulation | Robotics
 - [**Curved Lane Detection (Sliding Window)**](https://github.com/infinityengi/curved-lane-detection-sliding-window)  
   Implements a histogram + sliding window method to detect and fit curved lane lines, tested with varying road curvature and lighting.
 
-<!-- - [**Battery Modeling Toolkit**](https://github.com/yourusername/ev-battery-modeling)  
+- [**V-Model Automotive Portfolio**](https://github.com/infinityengi/v-model-automotive-portfolio)  
+  A systems-engineering toolkit showcasing V-Model workflows in automotive contexts (ISO 26262, AUTOSAR, HIL/SIL), with case studies like Lane-Keep-Assist mapped to each V-Model phase.
+
+- [**Professional Workflow Notes**](https://github.com/infinityengi/professional-workflownotes)  
+  A repeatable workflow guide from ideation to delivery with templates, diagrams, pseudocode drafting, and AI-assisted methods for engineering documentation.
+
+- [**ACDC Practical Exercises**](https://github.com/infinityengi/acdc-practical-exercises)  
+  Study notes and hands-on exercises from the ACDC MOOC covering perception, mapping, fusion, planning, and connected driving, organized into modular Jupyter notebooks.
+
+- [**ADAS Hands-On Repo**](https://github.com/infinityengi/ADAS-HandsOn-Repo)  
+  Hands-on ADAS and autonomous mobility skeleton repo with concise notes, reproducible notebooks, and mini-projects (ACC, AEB, LKA) built for CI-friendly development.
+
+  <!-- - [**Battery Modeling Toolkit**](https://github.com/yourusername/ev-battery-modeling)  
   MATLAB/Python toolkit for simulating Li-ion battery electro-thermal behavior, degradation, and cycle life prediction for EV applications.-->
 
 
